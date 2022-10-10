@@ -54,6 +54,7 @@ a{
     color: white;
 }
  button{
+    cursor: pointer;
     padding: 1%;
     border-radius: 5pt;
     background-color: white;
