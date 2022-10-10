@@ -26,6 +26,9 @@ body{
     animation-name: show;
     animation-duration: 2s;
 }
+table{
+    font-size: 3.5vmin;
+}
 
 ul,li{
     list-style-type: none;
